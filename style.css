@@ -137,10 +137,10 @@ section .footer .row ul li a{
  /* mobile view */
 @media (max-width:768px){
     section .main .searchbox .search{
-        width: 74%;
+        width: 88%;
     }
     section .main .searchbox .icon{
-        width: 86%;
+        width: 92%;
     }
     section .footer .row ul{
         display: block;
